@@ -62,3 +62,4 @@ After starting the application, open a web browser and navigate to `http://local
 
 hello
 hello
+hello
